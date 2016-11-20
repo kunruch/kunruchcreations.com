@@ -1,0 +1,15 @@
+## data for building web project
+
+## redirected URLs
+redirected:
+  - from: /feed
+    to: /feed.xml
+
+## additional data for site available as site.{key} in pug templates
+site:
+  url: "https://kunruchcreations.com"
+
+## overrides when built with -d or --development option
+development:
+  site:
+    url: "http://localhost:3000/"
