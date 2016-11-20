@@ -38,6 +38,8 @@ redirected:
 ## additional data for site available as site.{key} in pug templates
 site:
   url: "https://kunruchcreations.com"
+  title: "KunRuch Creations"
+  icon: "kunruch"
 
 ## overrides when built with -d or --development option
 development:

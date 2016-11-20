@@ -1,0 +1,32 @@
+extends ./_layout-root.pug
+
+block header
+  header.header
+    .container
+      .header-left
+        a(href='/').site-branding
+          div(style="width:36px;height:36px;margin:8px 8px 8px 0;float:left")
+            include ./../_includes/icons/_kunruch.svg
+          h1.title #{site.title}
+      .menu-toggle
+        input(type="checkbox")#menu-toggle
+        label(for="menu-toggle").header-right
+          span.css-icon-hamburger
+            span Toggle
+          span Menu
+        .menu-toggle-content
+          +menu(data.menu.main, 'menu')
+          .header-right
+            +social(data.menu.social)
+
+block footer
+  footer.footer
+    .container-content.section-large.text-center
+      div.thumbnail-medium.aligncenter
+        include ./../_includes/icons/_kunruch.svg
+      p Built with <a href="#{site.url}">mmpilot</a> by <a href="http://kunruchcreations.com/">KunRuch Creations</a>.
+      div
+        +social(data.menu.social)
+
+block content
+  != page.content
