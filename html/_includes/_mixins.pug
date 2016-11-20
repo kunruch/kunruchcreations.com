@@ -25,17 +25,28 @@ mixin submenu(item)
 mixin menuitem(item)
   if item.url
     li(class=['menu-item'], class={'current-menu-item': page.path == item.url})
-      a(href=item.url)&attributes(item.attributes) #{item.title}
+      a(href=item.url)&attributes(item.attributes)
+        if(item.icon)
+          <svg class="icon icon-#{item.icon}"><use xlink:href="#icon-#{item.icon}"></use></svg>
+        | #{item.title}
       +submenu(item)
   else
     li(class='menu-header') #{item.title}
+
+mixin horizontal-menu(list)
+  each item in list
+    if item.icon
+      a.button.button-text(href=item.url, target="_blank", title=item.title)
+        | <svg class="icon icon-#{item.icon}"><use xlink:href="#icon-#{item.icon}"></use></svg>
+    else
+      a.button.button-text(href=item.url)
+        | #{item.title}
 
 mixin social(list)
   each item in list
     a.button.button-text(href=item.url, target="_blank")
       | <svg class="icon icon-#{item.icon}"><use xlink:href="#icon-#{item.icon}"></use></svg>
       span #{item.title}
-
 
 mixin prevmenu(list, classes)
   - var prev = ''

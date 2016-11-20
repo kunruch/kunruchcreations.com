@@ -1,0 +1,24 @@
+dest: '/'
+layout: 'post'
+permalink: 'default'
+dateFormat: 'mmmm d, yyyy'
+summaryLength: 255
+index:
+  layout: 'archive'
+  paginate: 1
+  title: 'Blog'
+  description: 'Latest news and announcements from KunRuch Creations team'
+  dest: '/blog'
+tags:
+  layout: 'archive'
+  paginate: 1
+  title: 'Articles tagged %s'
+  dest: 'tag'
+categories:
+  layout: 'archive'
+  paginate: 1
+  title: '%s archive'
+  dest: '/'
+feed:
+  content: 'full'
+  entries: 10

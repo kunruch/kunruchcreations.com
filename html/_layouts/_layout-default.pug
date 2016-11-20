@@ -21,12 +21,13 @@ block header
 
 block footer
   footer.footer
-    .container-content.section-large.text-center
-      div.thumbnail-medium.aligncenter
-        include ./../_includes/icons/_kunruch.svg
-      p Built with <a href="#{site.url}">mmpilot</a> by <a href="http://kunruchcreations.com/">KunRuch Creations</a>.
+    .container-content.text-center    
+      +horizontal-menu(data.menu.footer)
       div
-        +social(data.menu.social)
+        include ./../_includes/_like-box.html
+      +social(data.menu.social)
+      div.section Copyright © <a href="http://kunruchcreations.com/">KunRuch Creations</a> - All Rights Reserved <br>
+        | Built with <a href="http://mmpilot.kunruchcreations.com/">mmpilot</a>
 
 block content
   != page.content
