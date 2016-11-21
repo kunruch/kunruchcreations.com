@@ -12,11 +12,11 @@ Until now, we have tried and kept all our apps as close to the metro design pri
 
 Below you can find a screen comparison of the earlier look and the new look.
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchBefore1.png"><img class="size-medium wp-image-771" title="KunRuchBefore" src="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchBefore1.png" alt="" width="260" height="300" /></a>
-<span class="caption-text">Earlier</span> 
+<a href="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchBefore1.png"><img class="aligncenter size-medium wp-image-771" title="KunRuchBefore" src="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchBefore1.png" alt="" width="260" height="300" /></a>
+<div class="caption-text text-center">Earlier</div>
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchAfter.png"><img class="size-medium wp-image-770" title="KunRuchAfter" src="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchAfter.png" alt="" width="286" height="300" /></a>
-<span class="caption-text">Now</span>
+<a href="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchAfter.png"><img class="aligncenter size-medium wp-image-770" title="KunRuchAfter" src="http://kunruchcreations.com/wp-content/uploads/2012/07/KunRuchAfter.png" alt="" width="286" height="300" /></a>
+<div class="text-center caption-text">Now</div>
 
 With this new design, we are also promising a series of windows phone development related articles on our site. We will be sharing our experiences and thoughts about development on Windows Phone and hope to contribute back a little to this growing windows phone developer community.
 

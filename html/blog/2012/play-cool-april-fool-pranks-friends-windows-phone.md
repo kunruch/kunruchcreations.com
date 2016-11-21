@@ -10,7 +10,7 @@ Hope that lot of people benefited from the <a title="How to impress your vale
 
 <strong>1. Your phone is screwed!</strong>
 
-What could be better way to fool, than to prove your friend's non-windows phone to be buggy and piece of trash :twisted:  Open up <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister</a>, type a scary message proving your friends phone is trashed, choose Twisting logic of "Upside down" and send the Twisted text as SMS to the victim. Some thing like shown below. Of-course you can come up with scarier text than this. Don't forget to replace iphone with your friend's phone model.
+What could be better way to fool, than to prove your friend's non-windows phone to be buggy and piece of trash.  Open up <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister</a>, type a scary message proving your friends phone is trashed, choose Twisting logic of "Upside down" and send the Twisted text as SMS to the victim. Some thing like shown below. Of-course you can come up with scarier text than this. Don't forget to replace iphone with your friend's phone model.
 <img class="aligncenter size-full wp-image-527" title="screwed phone " src="http://kunruchcreations.com/wp-content/uploads/2012/03/phonescrewed.png" alt="screwed phone" width="272" height="161" />
 
 <strong>2. Your system is hacked!</strong>
