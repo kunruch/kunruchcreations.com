@@ -10,12 +10,12 @@ index:
   description: 'Latest news and announcements from KunRuch Creations team'
   dest: '/blog'
 tags:
-  layout: 'archive'
+  layout: 'archive-taxonomy'
   paginate: 50
   title: 'Articles tagged %s'
   dest: 'tag'
 categories:
-  layout: 'archive'
+  layout: 'archive-taxonomy'
   paginate: 50
   title: '%s archive'
   dest: 'category'

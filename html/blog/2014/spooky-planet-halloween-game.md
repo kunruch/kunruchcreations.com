@@ -4,7 +4,7 @@ title: Play Spooky Planet this Halloween - Free Addicting Game from KunRuch Crea
 date: 2014-10-28 20:22
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a href="http://apps.kunruchcreations.com/spooky_planet/" target="_blank"><img class="aligncenter size-full wp-image-1544" src="http://kunruchcreations.com/wp-content/uploads/2014/10/spooky-planet-promo.png" alt="spooky-planet-promo" width="700" height="387" /></a>
 

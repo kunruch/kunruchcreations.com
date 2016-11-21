@@ -4,7 +4,7 @@ title: Spice up your Halloween wishes and pranks with new and interesting text e
 date: 2013-10-27 20:32
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Howdy folks! With Halloween around the corner, we are sure that everyone will be gearing up for the day. So, what better time than this to share with you all the new text effects that MyTextTwister has at your disposal :).
 

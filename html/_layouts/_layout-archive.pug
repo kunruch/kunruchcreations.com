@@ -1,28 +1,15 @@
 extends ./_layout-default.pug
 
 block content
-  .section-medium
-    .container-readable
-      each post in page.paginated
-        div
+  .container-readable
+    each post in page.paginated        
+      article
+        header.sub-header.text-center            
           a(href=post.url)
-            h2.h3= post.title
-          div= post.date
-          if post.tags
-            each tag in post.tags
-              a(href=tag.url)
-                div= tag.title
-          if post.categories
-            each cateogry in post.categories
-              a(href=cateogry.url)
-                div= cateogry.title
-        div!= post.summary
-      .grid.section
-        .one-half
-          if page.prevPath
-            span.alignleft &larr; <a href="#{page.prevPath}">Newer</a>
-        .one-half
-          if page.nextPath
-            span.alignright <a href="#{page.nextPath}">Older</a> &rarr;
-      .section
-        p.text-center Want us to write a guide on a topic you don't see here? <a href="/contact/">Get in touch</a>
+            h2.entry-title #{post.title}
+          .entry-meta= post.date
+        .entry-content!= post.content
+      hr.featurette-divider
+    include ./../_includes/_pagination.pug
+    .section
+      p.text-center Subscribe to <a href="/feed.xml">RSS feed</a>

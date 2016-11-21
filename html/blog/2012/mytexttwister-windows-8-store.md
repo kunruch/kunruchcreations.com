@@ -4,7 +4,7 @@ title: MyTextTwister for Windows 8 Store is here
 date: 2012-09-27 22:46
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Windows store got <a href="http://blogs.msdn.com/b/windowsstore/archive/2012/09/11/windows-store-now-open-to-all-developers.aspx" target="_blank">open for all developers</a> few days back, and we made sure that we expand the reach of our apps to Windows Store as well. We are happy to announce that our app <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister,</a> which has been downloaded and loved by more than 100,000 users world wide on windows phone, is now also available on <a title="MyTextTwister on Windows Store" href="http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da" target="_blank">Windows Store</a>. If you have Windows 8 (not yet generally available) installed on your system then please do install the app and let us know of early feedbacks.
 

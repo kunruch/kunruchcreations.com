@@ -4,8 +4,8 @@ title: 1 million downloads on Windows Phone..
 date: 2013-04-26 23:38
 author: kunruch
 comments: true
-categories: [news-and-announcements]
-tags: [download-stats, windows-phone]
+categories: [News and Announcements]
+tags: [Download Stats, Windows Phone]
 ---
 Achievement unlocked: 1 year 6 months, four (x2) apps and a million downloads on windows phone.
 

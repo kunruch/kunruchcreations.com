@@ -4,7 +4,7 @@ title: 250,000 downloads on Windows Phone
 date: 2012-09-27 23:20
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Over quarter million downloads is what our apps have reached on Windows Phone. And boy are we glad. :)
 

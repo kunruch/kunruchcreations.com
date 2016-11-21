@@ -4,7 +4,7 @@ title: Happy Mother's Day!
 date: 2012-05-13 13:21
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 KunRuch Creation wishes a very Happy Mother's day to everyone!
 <h4>Here is a special ASCII art on this occasion for you to share some love with your loving mother. :)</h4>

@@ -4,7 +4,7 @@ title: Achievement Unlocked! 50,000 downloads
 date: 2012-05-18 00:24
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <strong>KunRuch Creations</strong> apps crossed 50,000 downloads mark earlier this month. With our <a title="MYTILEMAKER" href="http://kunruchcreations.com/mytilemaker/" target="_blank">first app</a> launched on 13th Oct 2011, it took us about 7 months to reach to 50K downloads worldwide. We would like to say thanks to all the users who downloaded our apps and recommended them to their friends. We currently have 3 apps in marketplace (2 free and 1 paid) and all of them have individually received 4+ star ratings on an average all over the world. Once again, thank you for all your nice comments and appreciations in the reviews and for all the great feedback!
 

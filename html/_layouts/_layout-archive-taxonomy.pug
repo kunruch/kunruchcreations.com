@@ -1,0 +1,13 @@
+extends ./_layout-default.pug
+
+block content
+  .container-readable
+    .section-medium    
+      h1.section-title #{page.title}
+      ul.bare
+        each post in page.paginated
+          li
+            a(href=post.url)
+              h2.h3.entry-title #{post.title}
+            div.entry-meta #{post.date}
+      include ./../_includes/_pagination.pug

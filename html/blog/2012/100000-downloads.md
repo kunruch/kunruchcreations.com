@@ -4,7 +4,7 @@ title: 100,000 downloads!
 date: 2012-07-16 23:25
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 We have reached another milestone. <strong>100,000 downloads! </strong>
 

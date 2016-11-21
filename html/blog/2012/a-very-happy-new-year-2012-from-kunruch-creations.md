@@ -4,7 +4,7 @@ title: A Very Happy New Year 2012 from KunRuch Creations
 date: 2012-01-01 01:38
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 KunRuch Creations wishes everyone a very happy and prosperous new year 2012.
 

@@ -4,7 +4,7 @@ title: Introducing SMS ART and EMOJICONS for Windows Phone
 date: 2012-06-18 22:43
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 We have added two new applications <a title="SMS ART" href="http://kunruchcreations.com/sms-art/" target="_blank">SMS ART</a> and <a title="EMOJICONS" href="http://kunruchcreations.com/emojicons/" target="_blank">EMOJICONS</a> to the Windows Phone Marketplace. These applications are simplified versions of the features offered by our popular text fun app <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister</a>, which has been around for a while in Marketplace and has gathered around 62,000+ downloads worldwide as of now. Along with a free ad-supported version, these new apps also offer a PRO version (paid) which is available without any ads.
 

@@ -4,7 +4,7 @@ title: Grab MyTextTwister Pro at 50% discount with Red Stripe Deals
 date: 2014-06-13 00:39
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a href="http://windowsphone.com/s?appid=4a5e84b9-6487-460a-b166-cce21492600e" target="_blank"><img class="aligncenter size-full wp-image-1517" src="http://kunruchcreations.com/wp-content/uploads/2014/06/mytexttwister-pro-red-stripe-deal.png" alt="mytexttwister-pro-red-stripe-deal" width="700" height="405" /></a>
 

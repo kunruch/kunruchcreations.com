@@ -4,7 +4,7 @@ title: SMS Art and MyTextTwister updated
 date: 2013-01-20 21:15
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 We are glad to bring you updated versions of <a title="SMS ART" href="http://kunruchcreations.com/sms-art/" target="_blank">SMS Art</a> and <a title="Announcing KunRuch Creations’ new Home" href="http://kunruchcreations.com/announcing-kunruch-creations-new-home/" target="_blank">MyTextTwister</a> apps. Both of these apps have been updated with new ASCII arts. MyTextTwister has also added a new text effect "Small Capitals" to its offering. The updated version of SMS art features a brand new design (a glimpse of which can be seen below) and a brand new feature: Convert your own text into ASCII art :)
 

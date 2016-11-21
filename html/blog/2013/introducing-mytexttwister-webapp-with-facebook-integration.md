@@ -4,7 +4,7 @@ title: Introducing MyTextTwister Webapp with Facebook Integration
 date: 2013-04-01 14:00
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Really, No kidding! Although we are making a product announcement on 1st April, please be aware that this is not one of those fake product announcements that everyone else (<a href="https://www.google.com/intl/en/landing/nose/" target="_blank">like this one</a>) is doing. In fact we are making this available today so that you can use it to play April fool jokes on your friends (and of course do much more). Jump to the end to see some ideas.
 

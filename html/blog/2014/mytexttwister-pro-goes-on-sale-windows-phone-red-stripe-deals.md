@@ -4,7 +4,7 @@ title: MyTextTwister Pro goes on sale - Windows Phone Red Stripe Deals
 date: 2014-01-24 18:47
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a href="http://kunruchcreations.com/wp-content/uploads/2014/01/RedStripeDealMyTextTwisterPro.jpg"><img class="aligncenter size-full wp-image-1473" alt="RedStripeDealMyTextTwisterPro" src="http://kunruchcreations.com/wp-content/uploads/2014/01/RedStripeDealMyTextTwisterPro.jpg" width="480" height="800" /></a>
 

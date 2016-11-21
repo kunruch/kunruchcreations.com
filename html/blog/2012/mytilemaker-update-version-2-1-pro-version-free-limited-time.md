@@ -4,7 +4,7 @@ title: MyTileMaker updated to version 2.1, Get PRO version free for Limited Time
 date: 2012-06-21 23:26
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Version 2.1 of <a title="MYTILEMAKER" href="http://kunruchcreations.com/mytilemaker/" target="_blank">MyTileMaker</a> is now available in windows phone marketplace. We are glad to announce that MyTileMaker made it to the honorable mentions in <a href="http://appawards.wp7applist.com/c/app-of-the-year" target="_blank">"App of the year"</a> award in 2012 Community app awards (thanks to our users who voted).  To celebrate this, we are offering <strong>PRO</strong> version of MyTileMaker absolutely free for a limited period of time (till 25th June, 2012). So hurry, <a title="MYTILEMAKER" href="http://kunruchcreations.com/mytilemaker/" target="_blank">download now</a> if you don't have it already!
 

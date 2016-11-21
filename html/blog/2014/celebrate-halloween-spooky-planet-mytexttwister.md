@@ -4,7 +4,7 @@ title: Happy Halloween - Celebrate with Spooky Planet and MyTextTwister
 date: 2014-10-31 22:23
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a href="http://kunruchcreations.com/wp-content/uploads/2014/10/happy-halloween.jpg"><img class="aligncenter size-full wp-image-1559" src="http://kunruchcreations.com/wp-content/uploads/2014/10/happy-halloween.jpg" alt="happy-halloween" width="700" height="655" /></a>
 

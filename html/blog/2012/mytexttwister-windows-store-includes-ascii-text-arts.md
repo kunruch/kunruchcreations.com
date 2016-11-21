@@ -4,7 +4,7 @@ title: MyTextTwister for Windows Store now includes ASCII Text Arts
 date: 2012-11-03 22:05
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 We have updated <a href="http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da" target="_blank">MyTextTwister for Windows Store </a>and it now offers ASCII text art decorations similar to its <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">Windows Phone version</a>. We have also added an option for users to submit Text Arts which they want to be included in our app. We hope to increase our inventory of Text Arts with this community driven way. Stay tuned for more updates in coming days as we are working on improving both our Windows Phone and Windows Store versions.
 

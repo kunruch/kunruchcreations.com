@@ -4,7 +4,7 @@ title: Review of Year 2011
 date: 2012-01-02 22:29
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 KunRuch Creations is a little over 2 months old now. Though the time it witnessed in the year 2011 is small, it's still worth-while to look back and reflect on what it achieved in the last year and decide the goals for the year ahead.
 

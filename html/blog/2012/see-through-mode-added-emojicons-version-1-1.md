@@ -4,7 +4,7 @@ title: See-Through mode added in Emojicons version 1.1
 date: 2012-08-22 20:41
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a title="EMOJICONS" href="http://kunruchcreations.com/emojicons/">Emojicons</a> has been updated to version 1.1 and we are glad to bring to you an exciting new see-through mode in this update.
 

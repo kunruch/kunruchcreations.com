@@ -4,7 +4,7 @@ title: Happy Valentine's Day!
 date: 2014-02-14 14:12
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Wish you all a happy Valentine's day. Hope you used our <a title="How to impress your valentine" href="http://kunruchcreations.com/impress-valentine/">tips to impress your valentine</a> and spread love.
 

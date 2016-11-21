@@ -4,7 +4,7 @@ title: Nominate our apps in the Windows Phone 7 2012 Community App Awards
 date: 2012-05-18 00:36
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 
 <span style="font-size: medium"><strong>Update:</strong> We have made it to the final <a href="http://appawards.wp7applist.com/nominees/" target="_blank">nominees</a>. Thank you everyone for nominating our apps. Votings are now open! Kindly vote using <a title="Nominated for App of the Year and Best Free app!" href="http://kunruchcreations.com/nominated-app-year-free-app/">the direct links found here</a>. :)</span>

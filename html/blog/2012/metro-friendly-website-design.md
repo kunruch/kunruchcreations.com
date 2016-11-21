@@ -4,7 +4,7 @@ title: Say hello to our metro friendly new website design!
 date: 2012-07-03 23:33
 author: kunruch
 comments: true
-categories: [development, news-and-announcements]
+categories: [Development, News and Announcements]
 ---
 We are great fan of <strong>Metro design</strong> principles and we love the way Windows Phone UI is built with Metro as underlying design. <a href="http://en.wikipedia.org/wiki/Metro_UI" target="_blank">Metro</a> is a modern and clean design language created by Microsoft. The key principle behind Metro is to celebrate typography which means give more importance to content than to the extra jazz around it. Why? Because content is what everyone is interested in and a clean representation of content is what makes Metro user friendly.
 

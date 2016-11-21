@@ -4,8 +4,8 @@ block content
   .container-readable
     article
       header.sub-header.section.text-center
-          h1.h2.entry-title #{page.title}
-          .entry-meta= page.date
+        h1.h2.entry-title #{page.title}
+        .entry-meta= page.date
       .entry-content!= page.content
     include ./../_includes/_sharebuttons.pug
     include ./../_includes/_disqus.pug

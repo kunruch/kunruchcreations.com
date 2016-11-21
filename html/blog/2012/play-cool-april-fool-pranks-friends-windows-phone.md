@@ -4,7 +4,7 @@ title: Play April fool prank on your friends with your windows phone
 date: 2012-03-30 23:52
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 Hope that lot of people benefited from the <a title="How to impress your valentine" href="http://kunruchcreations.com/impress-valentine/" target="_blank">life saving tips</a> that we published for valentine's day. We are back and this time with a list of crazy ideas to play prank on your friends and family on April Fool's day. Sounds Fun, right? So here we go:
 

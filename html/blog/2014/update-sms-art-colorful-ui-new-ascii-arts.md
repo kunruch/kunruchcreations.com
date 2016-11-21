@@ -4,7 +4,7 @@ title: Update for SMS Art brings Colorful UI & New ASCII Arts
 date: 2014-11-12 17:45
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a href="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-new-user-interface-promotional-image.png"><img class="aligncenter size-full wp-image-1571" src="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-new-user-interface-promotional-image.png" alt="sms-art-new-user-interface-promotional-image" width="728" height="421" /></a>
 

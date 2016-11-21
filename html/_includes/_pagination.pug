@@ -1,0 +1,7 @@
+.grid.section
+  .one-half
+    if page.prevPath
+      span.alignleft &larr; <a href="#{page.prevPath}">Newer</a>
+  .one-half
+    if page.nextPath
+      span.alignright <a href="#{page.nextPath}">Older</a> &rarr;

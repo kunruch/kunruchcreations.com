@@ -4,7 +4,7 @@ title: Nominated for App of the Year and Best Free app!
 date: 2012-05-24 19:59
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <img class="aligncenter size-full wp-image-635" title="WP7 2012 Community App awards" src="http://kunruchcreations.com/wp-content/uploads/2012/05/awards.png" alt="WP7 2012 Community App awards" width="340" height="180" />
 

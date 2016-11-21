@@ -4,7 +4,7 @@ title: Seven new twisting logics in version 1.2 of MyTextTwister
 date: 2012-02-07 21:46
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 <a href="http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44" target="_blank"><img align="right" class="alignright size-full wp-image-13" title="MyTextTwister" src="http://kunruchcreations.com/wp-content/uploads/2011/12/mytexttwister99.png" alt="MyTextTwister" width="99" height="99" /></a>
 

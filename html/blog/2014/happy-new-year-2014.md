@@ -4,7 +4,7 @@ title: Happy New Year 2014!
 date: 2014-01-02 18:24
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 We at KunRuch Creations wish you all a very happy new year filled with wonder, peace, and meaning. Happy 2014!
 

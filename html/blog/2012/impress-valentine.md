@@ -4,7 +4,7 @@ title: How to impress your valentine
 date: 2012-02-14 10:23
 author: kunruch
 comments: true
-categories: [news-and-announcements]
+categories: [News and Announcements]
 ---
 If you are looking for ideas to impress your valentine and you have a <strong>Windows Phone</strong>, then we can help. Grab the app "<a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister</a>" from marketplace (<a title="Download MyTextTwister from Marketplace" href="http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44" target="_blank">Click here to get</a>) if you don't have it already (Really?).
 
