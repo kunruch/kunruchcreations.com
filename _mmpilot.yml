@@ -37,11 +37,14 @@ redirected:
 
 ## additional data for site available as site.{key} in pug templates
 site:
-  url: "https://kunruchcreations.com"
-  title: "KunRuch Creations"
-  icon: "kunruch"
+  url: https://kunruchcreations.com
+  title: KunRuch Creations
+  icon: kunruch
+  twitter_username: kunruch
+  disqus: kunruchcreations
 
 ## overrides when built with -d or --development option
 development:
   site:
-    url: "http://localhost:3000/"
+    url: http://localhost:3000/
+    disqus:

@@ -18,7 +18,7 @@ categories:
   layout: 'archive'
   paginate: 1
   title: '%s archive'
-  dest: '/'
+  dest: 'category'
 feed:
   content: 'full'
   entries: 10
