@@ -3,8 +3,8 @@ extends ./_layout-default.pug
 block content
   .container-readable
     article
-      header.sub-header.section.text-center
-        h1.h2.entry-title #{page.title}
+      header.sub-header.section-medium.text-center
+        h1.h2.entry-title.section-title #{page.title}
         .entry-meta= page.date
       .entry-content!= page.content
     include ./../_includes/_sharebuttons.pug

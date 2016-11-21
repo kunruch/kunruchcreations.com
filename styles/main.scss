@@ -1,6 +1,15 @@
 @import "vars";
 @import "mmcss/src/mm";
 
+.entry-title, .section-title {
+  line-height: 1.5;
+  font-weight: 400;
+
+  a {
+    color: $color-primary;
+  }
+}
+
 .share-buttons {
   text-align: center;
   background: $color-primary;
