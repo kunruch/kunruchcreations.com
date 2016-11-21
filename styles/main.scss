@@ -1,6 +1,10 @@
 @import "vars";
 @import "mmcss/src/mm";
 
+.button.button-ghost {
+  border-color: #ddd;
+}
+
 .entry-title, .section-title {
   line-height: 1.5;
   font-weight: 400;
@@ -30,12 +34,11 @@
   }
 }
 
-.featurette-divider {
-    margin: 80px 0;
+hr {
+    background-color: #eee;
 }
 
-@include mobile {
-  .featurette-divider {
-    margin: 40px 0;
-  }
+button.disabled {
+  cursor: not-allowed;
+  color: #999 !important;
 }
