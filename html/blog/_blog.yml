@@ -5,18 +5,18 @@ dateFormat: 'mmmm d, yyyy'
 summaryLength: 255
 index:
   layout: 'archive'
-  paginate: 1
+  paginate: 4
   title: 'Blog'
   description: 'Latest news and announcements from KunRuch Creations team'
   dest: '/blog'
 tags:
   layout: 'archive'
-  paginate: 1
+  paginate: 50
   title: 'Articles tagged %s'
   dest: 'tag'
 categories:
   layout: 'archive'
-  paginate: 1
+  paginate: 50
   title: '%s archive'
   dest: 'category'
 feed:

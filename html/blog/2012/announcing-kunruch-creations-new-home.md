@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Announcing KunRuch Creations new Home
+title: Announcing KunRuch Creations' new Home
 date: 2012-01-01 00:01
 author: kunruch
 comments: true
 categories: [news-and-announcements]
-tags: []
 ---
 KunRuch Creations has found a Home on the web on the occasion of New Year 2012. Since the inception of KunRuch Creations, we were maintaining our web presence mainly and actively on <a title="KunRuch Creations on Facebook" href="http://www.facebook.com/kunruchcreations" target="_blank">Facebook </a>and <a title="KunRuch Creations on Twitter" href="http://twitter.com/kunruch" target="_blank">Twitter</a>. From this day, KunRuch Creations will continue to do so while sitting cozily in its home <a title="KunRuch Creations" href="http://kunruchcreations.com/" target="_blank">KunRuchCreations.com</a>.
 
