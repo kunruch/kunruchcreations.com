@@ -17,13 +17,15 @@ With this update, we have also added support for all three tile sizes (small, m
 We hope that you will find these changes useful and enjoy the selection of new text arts :). Do let us know what you think of the brand new look by leaving your rating in the store.
 
 Here is the complete changelog for this version:
-<pre>What’s new in Version 2.1
+<pre class="text-small">What’s new in Version 2.1
 • Colorful User Interface
 • New ASCII arts
 • Selected ASCII art is easily recognizable now
 • Support for all three tile sizes (small, medium and wide) for WP7.8 and WP8 devices.
 • New About Screen</pre>
+
 If you don't want to miss out on the fun, you can get SMS Art now by scanning the QR code below or from the download link.
 
 <h3 style="text-align: center"><a href="http://windowsphone.com/s?appid=68e564ee-3e5b-4465-aab6-1ae3ccc74fbb" target="_blank">Download SMS Art on Windows Phone</a></h3>
+
 <a href="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-qr-code.png"><img class="aligncenter wp-image-1579" src="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-qr-code.png" alt="sms-art-qr-code" width="220" height="220" /></a>

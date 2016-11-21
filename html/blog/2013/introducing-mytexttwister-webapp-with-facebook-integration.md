@@ -10,6 +10,7 @@ Really, No kidding! Although we are making a product announcement on 1st April, 
 
 <a href="http://kunruchcreations.com/wp-content/uploads/2013/04/MyTextTwisterWebApp.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border-width: 0px" title="MyTextTwisterWebApp" alt="MyTextTwisterWebApp" src="http://kunruchcreations.com/wp-content/uploads/2013/04/MyTextTwisterWebApp_thumb.png" width="640" height="371" border="0" /></a>
 <h3>MyTextTwister Webapp &amp; Facebook app</h3>
+
 Similar to the <a href="http://kunruchcreations.com/mytexttwister/" target="_blank">Windows Phone</a> and <a href="http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da" target="_blank">Windows 8</a> versions of MyTextTwister app, the webapp offers you unlimited fun with ⓉⒺⓍⓉ effects. Moreover we have made use of Facebook integration to help you post your cool status messages and to help you wish your friends on their birthdays.
 
 You can access the app using the following links:
@@ -24,6 +25,7 @@ The webapp is pretty straightforward to use but you can always click on “How t
 
 Don’t forget to send us your feedback and comments so that we can improve it further.
 <h3>April fool Prank Ideas</h3>
+
 MyTextTwister text effects (specially upside-down text effect) allows one to easily play pranks on friends. We have gathered a few ideas here to give you a kick start.
 
 <strong>1. Your system is faulty</strong>

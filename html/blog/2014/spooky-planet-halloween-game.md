@@ -24,10 +24,10 @@ Here's a <strong>little story</strong> for you to enjoy before playing the game:
 - Tweet your score to your friends
 
 Find links to download Spooky Planet on your devices. Also don't forget, you can play Spooky Planet on your Desktop Browsers too.
-<h2><a href="http://windowsphone.com/s?appid=545058ef-25fc-4af8-b91f-d1b6e7ec8d3c" target="_blank">Download Spooky Planet on Windows Phone</a></h2>
-<h2><a href="http://apps.microsoft.com/windows/app/spooky-planet/1b675795-d4b5-43b5-aab4-ae09c7a9af03" target="_blank">Download Spooky Planet from Windows Store</a></h2>
-<h2><a href="https://play.google.com/store/apps/details?id=com.kunruchcreations.spookyplanet" target="_blank">Download Spooky Planet from Google Play Store</a></h2>
-<h2><a href="http://games.kunruchcreations.com/spooky_planet" target="_blank">Play Spooky Planet in Browser</a></h2>
+<h2 class="h3"><a href="http://windowsphone.com/s?appid=545058ef-25fc-4af8-b91f-d1b6e7ec8d3c" target="_blank">Download Spooky Planet on Windows Phone</a></h2>
+<h2 class="h3"><a href="http://apps.microsoft.com/windows/app/spooky-planet/1b675795-d4b5-43b5-aab4-ae09c7a9af03" target="_blank">Download Spooky Planet from Windows Store</a></h2>
+<h2 class="h3"><a href="https://play.google.com/store/apps/details?id=com.kunruchcreations.spookyplanet" target="_blank">Download Spooky Planet from Google Play Store</a></h2>
+<h2 class="h3"><a href="http://games.kunruchcreations.com/spooky_planet" target="_blank">Play Spooky Planet in Browser</a></h2>
 
 
 Do you like Spooky Planet? Do let us know by leaving a rating on the store. Hope that all of you enjoy Halloween!

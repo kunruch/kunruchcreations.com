@@ -33,14 +33,14 @@ Use the Text Twisting capabilities of MyTextTwister to write your new year wis
 If you want to add some personal touch, why not add some decoration to your message. MyTextTwister presents you with a wide variety of decorative ASCII arts to fulfill this need. Here are few examples what we came up with. You can create many more.
 
 <p>
-☆(`*•.¸ (`*•.¸¸ ¸¸.•*`¸.•*`)☆<br/>
+☆(\`*•.¸ (`*•.¸¸ ¸¸.•*`¸.•*\`)☆<br/>
 ℋå℘℘ץ Ѝℯฬ ¥eåř<br/>
 ☆(¸.•* (¸.•*´¨¨`*•.¸) *•.¸)☆
 </p>
 
 <p>
-(¯`v´¯)<br/>
-`*.¸.*´<br/>
+(¯\`v´¯)<br/>
+..\`*.¸.*´<br/>
 ¸.•´¸.•*¨) ¸.•*¨)<br/>
 (¸.•´ (¸.•´ .•´ ¸¸.•¨¯`•<br/>
 Ⓗⓐⓟⓟⓨ Ⓝⓔⓦ Ⓨⓔⓐⓡ

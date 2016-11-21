@@ -8,7 +8,7 @@ categories: [News and Announcements]
 ---
 KunRuch Creations is a little over 2 months old now. Though the time it witnessed in the year 2011 is small, it's still worth-while to look back and reflect on what it achieved in the last year and decide the goals for the year ahead.
 
-<strong><img align="right" class="size-full wp-image-14" title="mytilemaker99" src="http://kunruchcreations.com/wp-content/uploads/2011/12/mytilemaker99.png" alt="MyTileMaker" width="99" height="99" />MyTileMaker released (v1.0 and v2.0)</strong>
+<strong><img align="right" class="alignright size-full wp-image-14" title="mytilemaker99" src="http://kunruchcreations.com/wp-content/uploads/2011/12/mytilemaker99.png" alt="MyTileMaker" width="99" height="99" />MyTileMaker released (v1.0 and v2.0)</strong>
 <em>Our first application</em>
 
 On <strong>13<sup>th</sup> Oct, 2011</strong>, KunRuch Creation released its first application <a title="MyTileMaker" href="http://kunruchcreations.com/mytilemaker/" target="_blank">MyTileMaker</a> in Windows Phone Marketplace in all supported countries. The application was released free of cost, without any advertisements. Soon after, MyTileMaker saw a good response from users worldwide, and started receiving multiple reviews and feedbacks. Driven by the appreciation and incoming suggestions, we started to work on the next update of MyTileMaker. In about a month (<strong>18<sup>th</sup> Nov, 2011</strong>), we released version 2.0 of the application.
