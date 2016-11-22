@@ -1,25 +1,23 @@
 title: MyTextTwister
 url: /apps/mytexttwister
-wplink: http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44
 image: http://cdn.marketplaceimages.windowsphone.com/v8/images/3455b6af-6b4f-47f6-a003-32afd7704a6a?imageType=ws_icon_small
 description: Add lots of fun to SMS, email, Facebook and Twitter. Create amazing text effects and decorate it with cool ASCII arts and top it up with built-in 1200+ emoticons.
-tagline: Want to add lots of fun to SMS, email, Facebook and Twitter? Look no further! Use this app to create amazing text effects and decorate it with cool ASCII arts. Top it up with built-in 1200+ emoticons
 screenshot: screenshots/mytexttwister.png
 qrcode: images/mytexttwister-qr-code.png
 
 platforms:
   - name: Windows Phone
-    class: fa-windows
+    icon: windows
     download: http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44
     linktitle: Windows Phone
 
   - name: Windows Store
-    class: fa-windows
+    icon: windows
     download: http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da
     linktitle: Windows Store
 
   - name: Web App
-    class: fa-html5
+    icon: html5
     download: http://mytexttwister.azurewebsites.net/Webapp
     linktitle: Web App
 

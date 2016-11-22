@@ -28,8 +28,9 @@ block content
           ul.bare
             for feature in app.features
               li ★ #{ feature }
-    .container
-      .section-medium.highlight
+              
+    .section-medium.highlight
+      .container
         .container-content
           h2.h3.text-center.section-title User Reviews ❤ #{ app.title }
           .grid
@@ -44,10 +45,11 @@ block content
                   p=review.text
                   cite - #{review.user}
     
-    .container-readable
+    if app.medialinks
       .section-medium
-        h2.h3.text-center.section-title Media Coverage
-        for medialink in app.medialinks
-            p
-              a(href=medialink.url, target="_blank". rel="nofollow")= medialink.title
-              cite - #{ medialink.name }
+        .container-readable
+          h2.h3.text-center.section-title Media Coverage
+          for medialink in app.medialinks
+              p
+                a(href=medialink.url, target="_blank". rel="nofollow")= medialink.title
+                cite - #{ medialink.name }

@@ -1,15 +1,13 @@
 title: Emojicons
 url: /apps/emojicons
-wplink: http://windowsphone.com/s?appid=11d32afb-032e-4b21-bcaa-9861f6159f16
 image: http://cdn.marketplaceimages.windowsphone.com/v8/images/bfd1ef2a-12b5-480f-8fba-6d2b48b86a64?imageType=ws_icon_small
 description: The easiest to use Metro style emojicons composer with the largest (1200+) collection of emoji! Comes with a see-through mode to help you in texting while walking.
-tagline: Easiest to use Metro style emojicons composer with the largest (1200+) collection of emoji!. Comes with a see-through mode, so that you can keep an eye on the road while walking and texting.
 screenshot: screenshots/emojicons.png
 qrcode: images/emojicons-qr-code.png
 
 platforms:
   - name: Windows Phone
-    class: fa-windows
+    icon: windows
     download: http://windowsphone.com/s?appid=11d32afb-032e-4b21-bcaa-9861f6159f16
     linktitle: Windows Phone
 

@@ -1,14 +1,13 @@
 title: SMS Art
 url: /apps/smsart
-wplink: http://windowsphone.com/s?appid=68e564ee-3e5b-4465-aab6-1ae3ccc74fbb
 image: http://cdn.marketplaceimages.windowsphone.com/v8/images/a5f8642f-bc45-41a5-bcc5-52f99340f865?imageType=ws_icon_small
 description: Must have collection of ASCII arts! Send cute Birthday, Christmas ★, New Year Greetings, Love messages ♥, exclamations and many more to choose from.
-tagline: Must have collection of ASCII arts! ★ Birthday, Christmas, New Year greetings ✿ Love messages ♥ exclamations and more
 screenshot: screenshots/sms-art.png
 qrcode: images/sms-art-qr-code.png
+
 platforms:
   - name: Windows Phone
-    class: fa-windows
+    icon: windows
     download: http://windowsphone.com/s?appid=68e564ee-3e5b-4465-aab6-1ae3ccc74fbb
     linktitle: Windows Phone
 
