@@ -5,6 +5,20 @@
   border-color: #ddd;
 }
 
+.button.button-primary {
+  background-color: transparent;
+  color: $color-primary;
+  font-weight: 500;
+
+  &:hover {
+    color: #fff;
+  }
+}
+
+.button + .button {
+  margin-left: 8px;
+}
+
 .entry-title, .section-title {
   line-height: 1.5;
   font-weight: 400;
@@ -73,4 +87,14 @@ button.disabled {
       margin-left: 64px;
     }
   }
+}
+
+.featurelist {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.user-quote {
+  background-color: transparent;
+  border: none;
 }

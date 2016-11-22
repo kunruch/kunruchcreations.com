@@ -1,0 +1,53 @@
+extends ./_layout-default.pug
+
+block content
+  - var app = data.portfolio.apps[page.item]
+  article
+    .sub-header.section-medium.text-center
+      .container-readable
+        h1.section-title #{page.title}
+        if page.description
+          p.text-muted #{page.description}
+    .container-readable
+      .text-center
+        img.aligncenter(alt=app.title, src=app.screenshot)
+        if app.online
+          a.button.button-primary(target="_blank", href=app.online) Play Online
+        if app.platforms.length > 0
+          h2.h3 Download on
+          div
+            for platform in app.platforms
+              a.button.button-primary(target="_blank", href=platform.download)= platform.name
+        if app.qrcode
+          p Scan the following QR code to get #{ app.title } on your device
+          p
+            img(src=app.qrcode, width="200", height="200", alt="QR Code for " + app.title)
+      .section
+        .featurelist
+          h2.h3.text-center #{app.title} Features
+          ul.bare
+            for feature in app.features
+              li ★ #{ feature }
+    .container
+      .section-medium.highlight
+        .container-content
+          h2.h3.text-center.section-title User Reviews ❤ #{ app.title }
+          .grid
+            .one-half
+              for review in app.reviews1
+                blockquote.user-quote
+                  p=review.text
+                  cite - #{review.user}
+            .one-half
+              for review in app.reviews2
+                blockquote.user-quote
+                  p=review.text
+                  cite - #{review.user}
+    
+    .container-readable
+      .section-medium
+        h2.h3.text-center.section-title Media Coverage
+        for medialink in app.medialinks
+            p
+              a(href=medialink.url, target="_blank". rel="nofollow")= medialink.title
+              cite - #{ medialink.name }
