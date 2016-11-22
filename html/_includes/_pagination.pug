@@ -1,11 +1,12 @@
-.grid.section
-  .one-half
-    if page.prevPath
-      span.alignleft <a class="button button-ghost" href="#{page.prevPath}">« Newer</a>
-    else
-      span.alignleft <button class="button button-ghost disabled">« Newer</a>
-  .one-half
-    if page.nextPath
-      span.alignright <a class="button button-ghost" href="#{page.nextPath}">Older »</a>
-    else
-      span.alignright <button class="button button-ghost disabled">Older »</a>
+if page.prevPath || page.nextPath
+  .grid.section
+    .one-half
+      if page.prevPath
+        span.alignleft <a class="button button-ghost" href="#{page.prevPath}">« Newer</a>
+      else
+        span.alignleft <button class="button button-ghost disabled">« Newer</a>
+    .one-half
+      if page.nextPath
+        span.alignright <a class="button button-ghost" href="#{page.nextPath}">Older »</a>
+      else
+        span.alignright <button class="button button-ghost disabled">Older »</a>
