@@ -1,0 +1,74 @@
+title: MyTextTwister
+url: /apps/mytexttwister
+wplink: http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44
+image: http://cdn.marketplaceimages.windowsphone.com/v8/images/3455b6af-6b4f-47f6-a003-32afd7704a6a?imageType=ws_icon_small
+description: Add lots of fun to SMS, email, Facebook and Twitter. Create amazing text effects and decorate it with cool ASCII arts and top it up with built-in 1200+ emoticons.
+tagline: Want to add lots of fun to SMS, email, Facebook and Twitter? Look no further! Use this app to create amazing text effects and decorate it with cool ASCII arts. Top it up with built-in 1200+ emoticons
+screenshot: screenshots/mytexttwister.png
+qrcode: images/mytexttwister-qr-code.png
+
+platforms:
+  - name: Windows Phone
+    class: fa-windows
+    download: http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44
+    linktitle: Windows Phone
+
+  - name: Windows Store
+    class: fa-windows
+    download: http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da
+    linktitle: Windows Store
+
+  - name: Web App
+    class: fa-html5
+    download: http://mytexttwister.azurewebsites.net/Webapp
+    linktitle: Web App
+
+features:
+  - Type in inverted, rounded, leet speak...
+  - Add ASCII arts decorations
+  - 1200+ emoticons (emojis)
+  - Compose pranks, greetings, proposals...
+  - SMS and email to your friends and loved ones
+  - Post to social networking sites
+  - FREE download
+
+reviews1:
+  - text: Fun! Makes people go crazy :)
+    user: Hassan HAMM, UK
+
+  - text: Nice app and only for WP. Drives my iOS friends nuts
+    user: draftdubya, US
+
+  - text: Love this app ! Best thing ever !
+    user: ViewingPandora2, US
+
+reviews2:
+  - text: Very cool change of pace :) fun to use and a nice surprise for the recipients. Get it!
+    user: B DIGGLES, US
+
+  - text: ЭЖÇЭLLЭИT
+    user: surjo, India
+
+  - text: Beaucoup de possibilités pour égayer ses messages, ses statuts etc.
+    user: a user from France
+
+medialinks:
+  - name: WindowsCentral
+    title: Add a twist to your messages with MyTextTwister
+    url: http://www.windowscentral.com/add-twist-your-messages-mytexttwister
+
+  - name: Nokia Conversation
+    title: Pimp up your texts on the Nokia Lumia
+    url: http://conversations.nokia.com/2012/10/08/pimp-up-your-texts-on-the-nokia-lumia/
+
+  - name: Windows Parent
+    title: Embellish your SMS and e-mails with various text effects
+    url: http://windowsparent.com/app-reviews/best-app-for-texting-holiday-greetings-mytexttwister/
+
+  - name: AddictiveTips
+    title: MyTextTwister For WP7 Decorate Your Text Messages With ASCII Art
+    url: http://www.addictivetips.com/mobile/mytexttwister-for-wp7-decorate-your-text-messages-with-ascii-art/
+
+  - name: WinSource
+    title: Prank Your Friends with MyTextTwister
+    url: http://winsource.com/2011/12/26/prank-your-friends-with-mytexttwister/

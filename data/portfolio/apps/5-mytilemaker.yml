@@ -1,0 +1,60 @@
+title: MyTileMaker
+url: /apps/mytilemaker
+wplink: http://windowsphone.com/s?appid=426ec35e-2da1-4542-a051-6a42fd3d9c0b
+image: http://cdn.marketplaceimages.windowsphone.com/v8/images/db8c7cb3-760a-426a-bcf5-2afd2beb4e6b?imageType=ws_icon_small
+description: A one stop solution for creating your own custom start screen tiles on Windows Phone. Pin Memo, Reminders, Shpping Lists, TODOs and Images to your start screen.
+tagline: A one stop solution for creating your own custom start screen tiles on Windows Phone. Pin Memo, Reminders, Shpping Lists, TODOs and Images to your start screen.
+screenshot: screenshots/mytilemaker.png
+qrcode: images/mytilemaker-qr-code.png
+
+platforms:
+  - name: Windows Phone
+    class: fa-windows
+    download: http://windowsphone.com/s?appid=426ec35e-2da1-4542-a051-6a42fd3d9c0b
+    linktitle: Windows Phone
+
+features:
+  - Create unlimited memo, lists and image tiles
+  - Split and pin your images into multiple tiles
+  - Manage all your tiles from the app
+  - Adjust text size on tile
+  - Tile colors change based on theme color
+  - Add reminders, send in email...
+  - FREE download
+
+reviews1:
+  - text: Nifty li'l app, more like a swiss knife.
+    user: WhoIsAnkur, US
+
+  - text: Just what I wanted.. And that too for free... Works like magic....must have for all..thankx guys really appreciate it....
+    user: srthakran, India
+
+  - text: I love it. Useful and helpful works the way it should :)
+    user: maria, US
+
+reviews2:
+  - text: Able to choose any color for tile, great for making grocery lists.
+    user: Cindy, US
+
+  - text: Great for notes and allows to adjust font size and theme colour. Also like the photo tiling extra!
+    user: Sahil, UK
+
+  - text: Génial pour découper les photos en tiles !!
+    user: a user from France
+
+medialinks:
+  - name: Nokia Conversation
+    title: How to create awesomely artistic Windows Phone Start screens
+    url: http://conversations.nokia.com/2013/04/10/how-to-create-awesomely-artistic-windows-phone-start-screens/
+
+  - name: Phone Arena
+    title: Best Windows Phone apps for creating and customizing your own Live Tiles
+    url: http://www.phonearena.com/news/Best-Windows-Phone-apps-for-creating-and-customizing-your-own-Live-Tiles_id36551
+
+  - name: The Windows Club
+    title: Start Screen Customization Apps For Windows Phone 8
+    url: http://www.thewindowsclub.com/startscreen-customization-apps-windows-phone-8
+
+  - name: TechTudo
+    title: Anote tudo o que quiser e organize sua vida com o MyTileMaker
+    url: http://www.techtudo.com.br/tudo-sobre/mytilemaker.html

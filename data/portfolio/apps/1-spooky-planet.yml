@@ -1,0 +1,62 @@
+title: Spooky Planet
+url: /apps/spooky_planet
+wplink: http://windowsphone.com/s?appid=545058ef-25fc-4af8-b91f-d1b6e7ec8d3c
+image: http://cdn.marketplaceimages.windowsphone.com/v8/images/5d472608-2a0e-410e-93ba-f189a257bfe6?imageType=ws_icon_small
+description: Help our friendly neighbourhood alien escape the spooky planet and return to his family in this addicting fun filled game.
+tagline: Help our friendly neighbourhood alien escape the spooky planet and return to his family in this addicting fun filled game.
+screenshot: screenshots/spooky-planet.png
+qrcode: images/qrcode.png
+
+online: http://games.kunruchcreations.com/spooky_planet
+
+platforms:
+  - name: Android
+    class: fa-android
+    download: https://play.google.com/store/apps/details?id=com.kunruchcreations.spookyplanet
+    linktitle: Google Play Store
+
+  - name: Windows Phone
+    class: fa-windows
+    download: http://windowsphone.com/s?appid=545058ef-25fc-4af8-b91f-d1b6e7ec8d3c
+    linktitle: Windows Phone
+
+  - name: Windows Store
+    class: fa-windows
+    download: http://apps.microsoft.com/windows/app/spooky-planet/1b675795-d4b5-43b5-aab4-ae09c7a9af03
+    linktitle: Windows Store
+
+features:
+    - Simple game control - tap to make the alien fly
+    - Endless flyer game
+    - Dark, horror theme, suitable for all ages
+    - Creepy yet enjoyable background music
+    - Online leaderboard that tracks the best players in the world
+    - Tweet your score to your friends
+    - FREE download
+
+reviews1:
+    - text: I enjoyed unlimited life... Its fun playing this game. Nice background score...
+      user: Ujjwala, India
+
+    - text: Thrilling game.. loved playing it
+      user: Amit, India
+
+reviews2:
+    - text: Very addictive... would love to see more characters..
+      user: Rohit, India
+
+    - text: Simple, but a fun game to pass a few minutes here and there. More challenging then it looks!
+      user: Oakdale, USA
+
+medialinks:
+    - name: 1800Pocket/PC
+      title: Forget Halloween Town. How About an Entire Planet Devoted to Things That Go Bump in the Night?
+      url: http://www.1800pocketpc.com/forget-halloween-town-how-about-an-entire-planet-devoted-to-things-that-go-bump-in-the-night/
+
+    - name: WMPoweruser
+      title: Save Little Alien from Spooky Planet this Halloween in Free Addicting Game
+      url: http://wmpoweruser.com/save-little-alien-from-spooky-planet-this-halloween-in-free-addicting-game/
+
+    - name: Check App
+      title: Spooky Planet - Flappy Bird im Halloween-Style
+      url: http://www.check-app.de/2014/10/30/spooky-planet-app-flappy-bird-halloween/

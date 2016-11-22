@@ -42,3 +42,35 @@ button.disabled {
   cursor: not-allowed;
   color: #999 !important;
 }
+
+.portfolio-list {
+  .thumbnail {
+    margin-top: 7px;
+  }
+
+  .entry-content {
+    font-size: 95%;
+    color: #555;
+  }
+
+  .media-body {
+    padding-left: 1rem;
+  }
+}
+
+@include mobile {
+  .portfolio-list {
+    .thumbnail {
+      width: 64px;
+      height: auto;
+    }
+
+    .entry-title {
+      margin-bottom: 0.5rem;
+    }
+
+    .media-left .thumbnail + .media-body {
+      margin-left: 64px;
+    }
+  }
+}
