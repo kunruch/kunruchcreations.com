@@ -36,8 +36,12 @@ Use the following PNG or SVG logo when denoting KunRuch Creations. Kindly don't 
 <p class="text-center">
   <img src="/img/kunruch.png">
   <div class="grid text-small">
-    <a class="button button-ghost one-half" href="/img/kunruch.png" target="_blank" download><strong>Download PNG</strong></a>
-    <a class="button button-ghost one-half" href="/img/kunruch.svg" target="_blank" download><strong>Download SVG</strong></a>
+    <div class="one-half">
+      <a class="button button-ghost" style="width:100%;" href="/img/kunruch.png" target="_blank" download><strong>Download PNG</strong></a>
+    </div>
+    <div class="one-half">
+      <a class="button button-ghost" style="width:100%;" href="/img/kunruch.svg" target="_blank" download><strong>Download SVG</strong></a>
+    </div>
   </div>
 </p>
 
