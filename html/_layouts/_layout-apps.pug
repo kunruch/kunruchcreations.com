@@ -12,12 +12,16 @@ block content
       .text-center
         img.aligncenter(alt=app.title, src=app.screenshot)
         if app.online
-          a.button.button-primary(target="_blank", href=app.online) Play Online
+          a.button.button-primary(target="_blank", href=app.online)
+            <svg class="icon icon-html5"><use xlink:href="#icon-html5"></use></svg>
+            span Play Online
         if app.platforms.length > 0
           h2.h3 Download on
           div
             for platform in app.platforms
-              a.button.button-primary(target="_blank", href=platform.download)= platform.name
+              a.button.button-primary(target="_blank", href=platform.download)
+                svg.icon(class="icon-" + platform.icon) <use xlink:href="#icon-#{platform.icon}"></use>
+                span #{platform.name}
         if app.qrcode
           p Scan the following QR code to get #{ app.title } on your device
           p
