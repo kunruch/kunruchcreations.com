@@ -10,11 +10,16 @@ block content
     .container-readable
       ul.bare.portfolio-list
         for item in data.portfolio[page.portfolio]
-          li
-            .media.media-left
-              a.thumbnail(href=item.url)
-                img(src=item.image)
-              .media-body
-                h2.h3.entry-title
-                  a(href=item.url)= item.title
-                .entry-content= item.description
+          li            
+            if item.image
+              .media.media-left
+                a.thumbnail(href=item.url)
+                  img(src=item.image)
+                .media-body
+                  h2.h3.entry-title
+                    a(href=item.url)= item.title
+                  .entry-content= item.description
+            else
+              h2.h3.entry-title(style="margin-bottom: 12px;")
+                a(href=item.url)= item.title
+              .text-large= item.description
