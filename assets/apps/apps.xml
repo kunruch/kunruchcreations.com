@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>KunRuch Creations apps feed</title>
+<link>http://kunruchcreations.com/apps/</link>
+<description>A RSS feed of KunRuch Creations apps</description>
+
+<item rel="spooky_planet">
+<title>Spooky Planet</title>
+<link>http://windowsphone.com/s?appid=545058ef-25fc-4af8-b91f-d1b6e7ec8d3c</link>
+<guid isPermaLink="false">http://cdn.marketplaceimages.windowsphone.com/v8/images/5d472608-2a0e-410e-93ba-f189a257bfe6?imageType=ws_icon_small</guid>
+<description>Help our friendly neighbourhood alien escape the spooky planet and return to his family in this addicting fun filled game.</description>
+</item>
+
+<item rel="smsart">
+<title>SMS Art</title>
+<link>http://windowsphone.com/s?appid=68e564ee-3e5b-4465-aab6-1ae3ccc74fbb</link>
+<guid isPermaLink="false">http://cdn.marketplaceimages.windowsphone.com/v8/images/a5f8642f-bc45-41a5-bcc5-52f99340f865?imageType=ws_icon_small</guid>
+<description>Must have collection of ASCII arts! Send cute Birthday, Christmas ★, New Year Greetings, Love messages ♥, exclamations and many more to choose from.</description>
+</item>
+
+<item rel="mytexttwister">
+<title>MyTextTwister</title>
+<link>http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44</link>
+<guid isPermaLink="false">http://cdn.marketplaceimages.windowsphone.com/v8/images/3455b6af-6b4f-47f6-a003-32afd7704a6a?imageType=ws_icon_small</guid>
+<description>Add lots of fun to SMS, email, Facebook and Twitter. Create amazing text effects and decorate it with cool ASCII arts and top it up with built-in 1200+ emoticons.</description>
+</item>
+
+<item rel="emojicons">
+<title>Emojicons</title>
+<link>http://windowsphone.com/s?appid=11d32afb-032e-4b21-bcaa-9861f6159f16</link>
+<guid isPermaLink="false">http://cdn.marketplaceimages.windowsphone.com/v8/images/bfd1ef2a-12b5-480f-8fba-6d2b48b86a64?imageType=ws_icon_small</guid>
+<description>The easiest to use Metro style emojicons composer with the largest (1200+) collection of emoji! Comes with a see-through mode to help you in texting while walking.</description>
+</item>
+
+<item rel="mytilemaker">
+<title>MyTileMaker</title>
+<link>http://windowsphone.com/s?appid=426ec35e-2da1-4542-a051-6a42fd3d9c0b</link>
+<guid isPermaLink="false">http://cdn.marketplaceimages.windowsphone.com/v8/images/db8c7cb3-760a-426a-bcf5-2afd2beb4e6b?imageType=ws_icon_small</guid>
+<description>A one stop solution for creating your own custom start screen tiles on Windows Phone. Pin Memo, Reminders, Shpping Lists, TODOs and Images to your start screen.</description>
+</item>
+
+</channel>
+</rss>
