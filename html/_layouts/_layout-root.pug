@@ -4,13 +4,10 @@ block vars
 html(lang='en-US')
   head
     meta(charset='UTF-8')
-    meta(http-equiv='x-ua-compatible', content='ie=edge')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1')
-    +title(page.title, site.title)
-    meta(name='description', content=page.description)
-    meta(property='og:title', content=page.title)
-    meta(property='og:type', content='website')
-    meta(property='og:url', content=page.url)
+    +titlemeta(page.title, site.title)
+    +opengraph(page)
     link(rel='canonical', href=page.url)
     link(href='/styles/main.css', rel='stylesheet')
     style

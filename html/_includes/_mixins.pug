@@ -1,8 +1,17 @@
-mixin title(title, sitename)
+mixin titlemeta(title, sitename)
   if title === sitename
     title #{title}
   else
     title #{title} - #{sitename}
+  if page.description
+    meta(name='description', content=page.description)
+
+mixin opengraph(page)
+  meta(property='og:title', content=page.title)
+  meta(property="og:site_name", content=site.title)
+  meta(property='og:type', content='website')
+  meta(property="og:locale", content='en_us')
+  meta(property='og:url', content=page.url)
 
 mixin favicons(favicon)
   link(rel='icon', href=site.url + 'img/' + favicon + '-32x32.png', sizes='32x32')
