@@ -5,7 +5,7 @@ description: Help our friendly neighbourhood alien escape the spooky planet and 
 screenshot: screenshots/spooky-planet.png
 qrcode: images/qrcode.png
 
-online: http://games.kunruchcreations.com/spooky_planet
+online: http://games.kunruchcreations.com/spooky_planet/
 
 platforms:
   - name: Android
