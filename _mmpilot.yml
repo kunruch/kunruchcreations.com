@@ -42,9 +42,11 @@ site:
   icon: kunruch
   twitter_username: kunruch
   disqus: kunruchcreations
+  analytics: "UA-37350394-13"
 
 ## overrides when built with -d or --development option
 development:
   site:
     url: http://localhost:3000/
     disqus:
+    analytics:
