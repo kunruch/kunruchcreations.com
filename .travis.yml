@@ -1,0 +1,15 @@
+branches:
+  only:
+  - master
+language: node_js
+node_js:
+- '6'
+before_script:
+- git remote set-url origin "https://${GH_TOKEN}@github.com/kunruch/kunruchcreations.com.git"
+- git config --global user.email "kanishk.kunal@hotmail.com"
+- git config --global user.name "Travis-CI"
+script:
+- npm run deploy
+env:
+  global:
+    secure: GnabADEndoW4F5z+MhQi2YMumcd0FqqczXWMC6PtGnOyH2iUhAsnd8uSOQ68JdRjX1M0LmceHmMlI8UiV2SHLli26Mz3TjbQ8RCraJiDcxQPx/EVgq1aqo3c/mzASfKCq0XBrmeCqc6qUkYOdtbcjuQq4/M+JWkZBg4EKW3r0PfyXXbiz/MOlqklU4S48OfsPoYS6VVa/IUgkBGe9A5ni+b18pnkNLShu7b3fchZ8/XCZao0IgN3W+hnuT4oOMal3UCiqR4wyk9mwSsdYxzXKfMVYT22CnSK2NKin1AaahlmelgswjiNHGhdjbnd7qsV3J4z/6Y6l8OypN3H9z5SUZ8PVq+K5X8j1aaQPm77YBLXQ4N8Qe/aT6VrEQ/XdjrkwMrqbSENS71LWj5DfLJPidJ0QNA/72XaSzfwScLmH5Rf764LvgpaSziP7hmyrThggOB2M1/L7UD3gyPng3iW20E7ar4hvyJ3TzD2DLod7yGvnr/FYSr2bFrjNlYS2gLAIoAyhW9Hnjwk4Qsj2xCD2q4cjLtFrXmjWvOc/otXH7vxF/EwckuMNzUp+GsBioIXA8zuBjjH2Bc9Ec5Dbp00PgPIQdUV4rlrhJsqwVJqj9eXTJIirMpBLAheHgaSDrPPnYabtjfiIJUqC0FJfO2kEQCH8XoS+XlzkB8k8tKQStU=
