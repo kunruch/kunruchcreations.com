@@ -10,16 +10,17 @@ block content
     .container-readable
       ul.bare.portfolio-list
         for item in data.portfolio[page.portfolio]
+          - var target = item.url.startsWith('http') ? '_blank' : '_self'
           li            
             if item.image
               .media.media-left
-                a.thumbnail(href=item.url)
+                a.thumbnail(href=item.url, target=target)
                   img(src=item.image)
                 .media-body
                   h2.h3.entry-title
-                    a(href=item.url)= item.title
+                    a(href=item.url, target=target)= item.title
                   .entry-content= item.description
             else
               h2.h3.entry-title(style="margin-bottom: 12px;")
-                a(href=item.url)= item.title
+                a(href=item.url, target=target)= item.title
               .text-large= item.description
