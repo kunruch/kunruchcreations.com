@@ -1,6 +1,6 @@
 title: MyTileMaker
 url: /apps/mytilemaker
-image: http://cdn.marketplaceimages.windowsphone.com/v8/images/db8c7cb3-760a-426a-bcf5-2afd2beb4e6b?imageType=ws_icon_small
+image: /apps/mytilemaker/images/mytilemaker.png
 description: A one stop solution for creating your own custom start screen tiles on Windows Phone. Pin Memo, Reminders, Shpping Lists, TODOs and Images to your start screen.
 screenshot: screenshots/mytilemaker.png
 qrcode: images/mytilemaker-qr-code.png

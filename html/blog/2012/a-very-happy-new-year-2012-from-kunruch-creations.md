@@ -8,7 +8,7 @@ categories: [News and Announcements]
 ---
 KunRuch Creations wishes everyone a very happy and prosperous new year 2012.
 
-<a href="http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44" target="_blank"><img align="right" class="alignright size-full wp-image-13" title="MyTextTwister" src="http://kunruchcreations.com/wp-content/uploads/2011/12/mytexttwister99.png" alt="MyTextTwister" width="99" height="99" /></a>
+<a href="http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44" target="_blank"><img align="right" class="alignright size-full wp-image-13" title="MyTextTwister" src="https://kunruchcreations.com/wp-content/uploads/2011/12/mytexttwister99.png" alt="MyTextTwister" width="99" height="99" /></a>
 
 Here are some of the ways that you can use to express your New Year Wishes using our app <a title="MyTextTwister at Windows Phone Marketplace" href="http://windowsphone.com/s?appid=0db2a471-6f36-4e7f-8e95-acfff7f33f44" target="_blank">MyTextTwister</a>.
 
@@ -50,7 +50,7 @@ If you want to add some personal touch, why not add some decoration to your me
 
 <hr />
 
-<img align="right" class="alignright size-full wp-image-14" title="mytilemaker99" src="http://kunruchcreations.com/wp-content/uploads/2011/12/mytilemaker99.png" alt="MyTileMaker" width="99" height="99" />
+<img align="right" class="alignright size-full wp-image-14" title="mytilemaker99" src="https://kunruchcreations.com/wp-content/uploads/2011/12/mytilemaker99.png" alt="MyTileMaker" width="99" height="99" />
 
 Here is what you can do with your Windows Phone on the occasion of New Year using our app <a title="MyTileMaker at Windows Phone Marketplace" href="http://windowsphone.com/s?appid=777a3c8d-fbeb-4913-8ba0-04a03af6cce9" target="_blank">MyTileMaker</a>.
 
@@ -58,7 +58,7 @@ Here is what you can do with your Windows Phone on the occasion of New Year usin
 
 MyTileMaker gives you the ability to add your own custom live tiles to the start screen of Windows Phone. You can use the split image feature of MyTileMaker to split a New Year greeting image into multiple tiles and pin to your start screen. On top of that, you can use our memo and list tiles to pin your New Year's resolution and New Year's shopping lists to your start screen. Here is a sample of how the start screen will look like. Hope you will find many more ways this New Year. :)
 
-<img class="aligncenter size-full wp-image-294" title="New Year 2012 wishes from KunRuch Creations" src="http://kunruchcreations.com/wp-content/uploads/2012/01/New-Year-2012.png" alt="New Year 2012 with MyTileMaker on Windows Phone" width="480" height="800" />
+<img class="aligncenter size-full wp-image-294" title="New Year 2012 wishes from KunRuch Creations" src="https://kunruchcreations.com/wp-content/uploads/2012/01/New-Year-2012.png" alt="New Year 2012 with MyTileMaker on Windows Phone" width="480" height="800" />
 
 <a title="MyTileMaker at Windows Phone Marketplace" href="http://windowsphone.com/s?appid=777a3c8d-fbeb-4913-8ba0-04a03af6cce9" target="_blank">Download MyTileMaker</a> for Windows Phone, if you don't have it yet.
 

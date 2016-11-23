@@ -6,13 +6,13 @@ author: kunruch
 comments: true
 categories: [News and Announcements]
 ---
-<a title="EMOJICONS" href="http://kunruchcreations.com/emojicons/">Emojicons</a> has been updated to version 1.1 and we are glad to bring to you an exciting new see-through mode in this update.
+<a title="EMOJICONS" href="https://kunruchcreations.com/emojicons/">Emojicons</a> has been updated to version 1.1 and we are glad to bring to you an exciting new see-through mode in this update.
 
 As the name suggests, this see-through mode will allow you to see through the phone while you are typing in your favorite emojicons. Not only the composing screen but the emojicons picker screen will also go see-through once you tap or slide over the title of app. We have included a demo of how this can be done in the app. The demo will be presented to you once you open the app for first time after installing or upgrading to version 1.1.
 
 We hope that you will find this new mode useful. We have tried to make the see-through experience better than any other free or paid app out there in marketplace. Your comments and feedbacks are as usual welcome. :)
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2012/08/SeeThroughEmojicons.png"><img class="aligncenter size-full wp-image-908" title="See Through Emojicons" src="http://kunruchcreations.com/wp-content/uploads/2012/08/SeeThroughEmojicons.png" alt="See Through Emojicons" width="480" height="800" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2012/08/SeeThroughEmojicons.png"><img class="aligncenter size-full wp-image-908" title="See Through Emojicons" src="https://kunruchcreations.com/wp-content/uploads/2012/08/SeeThroughEmojicons.png" alt="See Through Emojicons" width="480" height="800" /></a>
 
 <em>
 </em>

@@ -9,7 +9,7 @@ categories: [Development]
 So you created an app on a <strong>"killer, never seen before"</strong> idea for Windows Phone platform and have started receiving reviews from users all over the world. Great!
 
 Surely you can use the <a title="create.msdn.com" href="http://create.msdn.com" target="_blank">App Hub</a> itself to see all the reviews which are flowing in from all the different parts of the world for your app. But you may find reading these reviews via the <a title="create.msdn.com" href="http://create.msdn.com" target="_blank">App Hub</a> to be a bit time consuming specially with the drop down list kind of navigation for selecting locales. An option for <strong>"All locales"</strong> in the drop down list would be an awsome feature addition there but is currently missing. There are currently about 39 locales listed in the drop down list.
-<p style="text-align: center"><a href="http://kunruchcreations.com/wp-content/uploads/2012/01/apphubreviews.png"><img class="wp-image-349 aligncenter" title="App Hub Reviews" src="http://kunruchcreations.com/wp-content/uploads/2012/01/apphubreviews.png" alt="App Hub Reviews" width="629" height="334" /></a></p>
+<p style="text-align: center"><a href="https://kunruchcreations.com/wp-content/uploads/2012/01/apphubreviews.png"><img class="wp-image-349 aligncenter" title="App Hub Reviews" src="https://kunruchcreations.com/wp-content/uploads/2012/01/apphubreviews.png" alt="App Hub Reviews" width="629" height="334" /></a></p>
 Here's a <strong>tip</strong> about the fastest and the most convenient way to scroll through all the reviews in the App Hub:
 <ol>
 	<li>Click once on the locale chooser drop down list, in order to bring focus to the list. Click again or press enter.</li>

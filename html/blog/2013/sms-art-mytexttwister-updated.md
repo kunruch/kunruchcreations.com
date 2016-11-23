@@ -6,9 +6,9 @@ author: kunruch
 comments: true
 categories: [News and Announcements]
 ---
-We are glad to bring you updated versions of <a title="SMS ART" href="http://kunruchcreations.com/sms-art/" target="_blank">SMS Art</a> and <a title="Announcing KunRuch Creations’ new Home" href="http://kunruchcreations.com/announcing-kunruch-creations-new-home/" target="_blank">MyTextTwister</a> apps. Both of these apps have been updated with new ASCII arts. MyTextTwister has also added a new text effect "Small Capitals" to its offering. The updated version of SMS art features a brand new design (a glimpse of which can be seen below) and a brand new feature: Convert your own text into ASCII art :)
+We are glad to bring you updated versions of <a title="SMS ART" href="https://kunruchcreations.com/sms-art/" target="_blank">SMS Art</a> and <a title="Announcing KunRuch Creations’ new Home" href="https://kunruchcreations.com/announcing-kunruch-creations-new-home/" target="_blank">MyTextTwister</a> apps. Both of these apps have been updated with new ASCII arts. MyTextTwister has also added a new text effect "Small Capitals" to its offering. The updated version of SMS art features a brand new design (a glimpse of which can be seen below) and a brand new feature: Convert your own text into ASCII art :)
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2013/01/MainScreen.png"><img class="aligncenter size-full wp-image-1151" alt="SMS Art MainScreen" src="http://kunruchcreations.com/wp-content/uploads/2013/01/MainScreen.png" width="480" height="800" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2013/01/MainScreen.png"><img class="aligncenter size-full wp-image-1151" alt="SMS Art MainScreen" src="https://kunruchcreations.com/wp-content/uploads/2013/01/MainScreen.png" width="480" height="800" /></a>
 
 In case you don’t see an update in your marketplace then kindly click on one of the following links (based on the app you have) from your windows phone to visit them in marketplace and get the update.
 <ul>

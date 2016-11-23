@@ -7,9 +7,9 @@ comments: true
 categories: [News and Announcements]
 ---
 
-<span style="font-size: medium"><strong>Update:</strong> We have made it to the final <a href="http://appawards.wp7applist.com/nominees/" target="_blank">nominees</a>. Thank you everyone for nominating our apps. Votings are now open! Kindly vote using <a title="Nominated for App of the Year and Best Free app!" href="http://kunruchcreations.com/nominated-app-year-free-app/">the direct links found here</a>. :)</span>
+<span style="font-size: medium"><strong>Update:</strong> We have made it to the final <a href="http://appawards.wp7applist.com/nominees/" target="_blank">nominees</a>. Thank you everyone for nominating our apps. Votings are now open! Kindly vote using <a title="Nominated for App of the Year and Best Free app!" href="https://kunruchcreations.com/nominated-app-year-free-app/">the direct links found here</a>. :)</span>
 
-<img class="aligncenter size-full wp-image-635" title="WP7 2012 Community App awards" src="http://kunruchcreations.com/wp-content/uploads/2012/05/awards.png" alt="WP7 2012 Community App awards" width="340" height="180" />
+<img class="aligncenter size-full wp-image-635" title="WP7 2012 Community App awards" src="https://kunruchcreations.com/wp-content/uploads/2012/05/awards.png" alt="WP7 2012 Community App awards" width="340" height="180" />
 
 <span>If possible, please nominate our apps in the <a href="http://appawards.wp7applist.com/" target="_blank"><span>Windows Phone 7 2012 Community App Awards</span></a>.</span>
 

@@ -8,7 +8,7 @@ categories: [News and Announcements]
 ---
 Want to add lot of fun to SMS, email, Facebook and Twitter? MyTextTwister is your friend. Create amazing text effects and decorate it with cool ASCII arts. Top it up with built-in 1200+ emojis.  Send it as SMS or email or post to Facebook or Twitter and amaze your friends. Don't believe it? How about a  ǝpısdn uʍop ʇxǝʇ? or some rounded ⓉⒺⓍⓉ!  There is so much more this app can do, check out the demo video of the latest version (1.3.0.0) of the app.
 
-<img alt="MyTextTwister" src="http://kunruchcreations.com/wp-content/uploads/2011/12/mytexttwister99.png" width="99" height="99" />
+<img alt="MyTextTwister" src="https://kunruchcreations.com/wp-content/uploads/2011/12/mytexttwister99.png" width="99" height="99" />
 
 Key features of MyTextTwister:
 

@@ -14,7 +14,7 @@ So, people, what are you waiting for? Show everyone your creative side. Use MyTe
 
 We at KunRuch Creations wish you all a fun-filled and happy Halloween. Keep creating!!
 
-<p style="text-align: center;"><a href="http://kunruchcreations.com/wp-content/uploads/2013/10/Boo.png"><img class="aligncenter size-full wp-image-1423" alt="Boo" src="http://kunruchcreations.com/wp-content/uploads/2013/10/Boo.png" width="141" height="194" /></a></p>
+<p style="text-align: center;"><a href="https://kunruchcreations.com/wp-content/uploads/2013/10/Boo.png"><img class="aligncenter size-full wp-image-1423" alt="Boo" src="https://kunruchcreations.com/wp-content/uploads/2013/10/Boo.png" width="141" height="194" /></a></p>
 
-<p style="text-align: left;">For new users: You can visit <a href="http://kunruchcreations.com/mytexttwister/
+<p style="text-align: left;">For new users: You can visit <a href="https://kunruchcreations.com/mytexttwister/
 ">MyTextTwister app page</a> for the download links and further info on the app.</p>

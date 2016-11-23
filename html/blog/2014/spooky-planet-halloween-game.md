@@ -6,7 +6,7 @@ author: kunruch
 comments: true
 categories: [News and Announcements]
 ---
-<a href="http://apps.kunruchcreations.com/spooky_planet/" target="_blank"><img class="aligncenter size-full wp-image-1544" src="http://kunruchcreations.com/wp-content/uploads/2014/10/spooky-planet-promo.png" alt="spooky-planet-promo" width="700" height="387" /></a>
+<a href="http://apps.kunruchcreations.com/spooky_planet/" target="_blank"><img class="aligncenter size-full wp-image-1544" src="https://kunruchcreations.com/wp-content/uploads/2014/10/spooky-planet-promo.png" alt="spooky-planet-promo" width="700" height="387" /></a>
 
 Halloween is almost here, and we have just released our Halloween themed game <a href="http://apps.kunruchcreations.com/spooky_planet/" target="_blank">Spooky Planet</a>. Apart from being available on <a href="http://windowsphone.com/s?appid=545058ef-25fc-4af8-b91f-d1b6e7ec8d3c" target="_blank">Windows Phone</a> and <a href="http://apps.microsoft.com/windows/app/spooky-planet/1b675795-d4b5-43b5-aab4-ae09c7a9af03" target="_blank">Windows 8</a>, for the first time we are also releasing on <a href="https://play.google.com/store/apps/details?id=com.kunruchcreations.spookyplanet" target="_blank">Android</a> as well as an <a href="http://games.kunruchcreations.com/spooky_planet" target="_blank">HTML5 version</a> of this game. We hope that this extended reach to platforms will help us reach more users and get to know more of you. :)
 

@@ -6,7 +6,7 @@ author: kunruch
 comments: true
 categories: [News and Announcements]
 ---
-With <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/">MyTextTwister</a> now featuring 12 different twisting logics for normal text, we thought it would make sense to discuss these logics in a bit more detail.
+With <a title="MYTEXTTWISTER" href="https://kunruchcreations.com/mytexttwister/">MyTextTwister</a> now featuring 12 different twisting logics for normal text, we thought it would make sense to discuss these logics in a bit more detail.
 
 The first version of the app was released with 5 unique twisting logics: "Upside down", "Geeky", "Rounded", "Artistic" and "L33t sp34k". In the recently release update (version 1.2), 7 new twisiting logics were added: "Mix Mode", "Small (Superscript)", "Mirror Image", "Small Big", "Up and Down", "Condensed" and "Inflated".
 

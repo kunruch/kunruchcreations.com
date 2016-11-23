@@ -6,7 +6,7 @@ author: kunruch
 comments: true
 categories: [News and Announcements]
 ---
-<a href="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-new-user-interface-promotional-image.png"><img class="aligncenter size-full wp-image-1571" src="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-new-user-interface-promotional-image.png" alt="sms-art-new-user-interface-promotional-image" width="728" height="421" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-new-user-interface-promotional-image.png"><img class="aligncenter size-full wp-image-1571" src="https://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-new-user-interface-promotional-image.png" alt="sms-art-new-user-interface-promotional-image" width="728" height="421" /></a>
 
 We have updated <a href="http://apps.kunruchcreations.com/smsart/" target="_blank">SMS Art</a> with a fresh look that brings a new, colorful user interface for you. Now each category of ASCII arts follows the color theme of its category tile, so while navigating through these text arts you can easily identify the category that you are currently browsing. Along with this colorful interface, we have made it easy for you to recognize the selected ASCII text art. You can see a glimpse of this new interface in the above image.
 
@@ -28,4 +28,4 @@ If you don't want to miss out on the fun, you can get SMS Art now by scanning 
 
 <h3 style="text-align: center"><a href="http://windowsphone.com/s?appid=68e564ee-3e5b-4465-aab6-1ae3ccc74fbb" target="_blank">Download SMS Art on Windows Phone</a></h3>
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-qr-code.png"><img class="aligncenter wp-image-1579" src="http://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-qr-code.png" alt="sms-art-qr-code" width="220" height="220" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-qr-code.png"><img class="aligncenter wp-image-1579" src="https://kunruchcreations.com/wp-content/uploads/2014/11/sms-art-qr-code.png" alt="sms-art-qr-code" width="220" height="220" /></a>

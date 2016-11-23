@@ -16,4 +16,4 @@ KunRuch Creation wishes a very Happy Mother's day to everyone!
 <span style="color: #000000"> ▄███▄─▄███▄───▀█▀───▄███▄─▄███▄</span>
 </p>
 
-<span style="font-size: xx-small"><!--more--><span style="font-size: small">Note that this ASCII art is not yet included in our app </span></span><span style="font-size: small"><span style="font-size: medium"><a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister</a></span> and will be there in the next update. </span>
+<span style="font-size: xx-small"><!--more--><span style="font-size: small">Note that this ASCII art is not yet included in our app </span></span><span style="font-size: small"><span style="font-size: medium"><a title="MYTEXTTWISTER" href="https://kunruchcreations.com/mytexttwister/" target="_blank">MyTextTwister</a></span> and will be there in the next update. </span>

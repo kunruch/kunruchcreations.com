@@ -6,7 +6,7 @@ author: kunruch
 comments: true
 categories: [News and Announcements]
 ---
-We have updated our apps <a title="MYTEXTTWISTER" href="http://kunruchcreations.com/mytexttwister/">MyTextTwister</a> and <a title="SMS ART" href="http://kunruchcreations.com/sms-art/">SMS Art </a> with many new ASCII arts along with much requested Landscape mode support.
+We have updated our apps <a title="MYTEXTTWISTER" href="https://kunruchcreations.com/mytexttwister/">MyTextTwister</a> and <a title="SMS ART" href="https://kunruchcreations.com/sms-art/">SMS Art </a> with many new ASCII arts along with much requested Landscape mode support.
 
 Here is the complete changelog for both these apps.
 <div>

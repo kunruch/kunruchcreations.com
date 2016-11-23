@@ -8,10 +8,10 @@ categories: [News and Announcements]
 ---
 Really, No kidding! Although we are making a product announcement on 1st April, please be aware that this is not one of those fake product announcements that everyone else (<a href="https://www.google.com/intl/en/landing/nose/" target="_blank">like this one</a>) is doing. In fact we are making this available today so that you can use it to play April fool jokes on your friends (and of course do much more). Jump to the end to see some ideas.
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2013/04/MyTextTwisterWebApp.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border-width: 0px" title="MyTextTwisterWebApp" alt="MyTextTwisterWebApp" src="http://kunruchcreations.com/wp-content/uploads/2013/04/MyTextTwisterWebApp_thumb.png" width="640" height="371" border="0" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2013/04/MyTextTwisterWebApp.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border-width: 0px" title="MyTextTwisterWebApp" alt="MyTextTwisterWebApp" src="https://kunruchcreations.com/wp-content/uploads/2013/04/MyTextTwisterWebApp_thumb.png" width="640" height="371" border="0" /></a>
 <h3>MyTextTwister Webapp &amp; Facebook app</h3>
 
-Similar to the <a href="http://kunruchcreations.com/mytexttwister/" target="_blank">Windows Phone</a> and <a href="http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da" target="_blank">Windows 8</a> versions of MyTextTwister app, the webapp offers you unlimited fun with ⓉⒺⓍⓉ effects. Moreover we have made use of Facebook integration to help you post your cool status messages and to help you wish your friends on their birthdays.
+Similar to the <a href="https://kunruchcreations.com/mytexttwister/" target="_blank">Windows Phone</a> and <a href="http://apps.microsoft.com/webpdp/app/mytexttwister/1f882c3e-a616-42e1-9145-cf646ae265da" target="_blank">Windows 8</a> versions of MyTextTwister app, the webapp offers you unlimited fun with ⓉⒺⓍⓉ effects. Moreover we have made use of Facebook integration to help you post your cool status messages and to help you wish your friends on their birthdays.
 
 You can access the app using the following links:
 
@@ -34,7 +34,7 @@ Prove to your friends that their system is faulty by typing the following text a
 
 “If you are seeing this upside down then your system has a rare glitch and can get corrupted anytime. Get it replaced as soon as possible.”
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2013/04/image.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border: 0px" title="image" alt="image" src="http://kunruchcreations.com/wp-content/uploads/2013/04/image_thumb.png" width="644" height="254" border="0" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2013/04/image.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border: 0px" title="image" alt="image" src="https://kunruchcreations.com/wp-content/uploads/2013/04/image_thumb.png" width="644" height="254" border="0" /></a>
 
 <strong>2. My account is hacked</strong>
 
@@ -42,16 +42,16 @@ Post this scary message on your Facebook profile to make it appear as if some ha
 
 “Thank you for reading this post. We have hacked this account and have stolen all private data. Now we are going to hack your accounts too. – HACKER”
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2013/04/image1.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border: 0px" title="image" alt="image" src="http://kunruchcreations.com/wp-content/uploads/2013/04/image_thumb1.png" width="644" height="243" border="0" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2013/04/image1.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border: 0px" title="image" alt="image" src="https://kunruchcreations.com/wp-content/uploads/2013/04/image_thumb1.png" width="644" height="243" border="0" /></a>
 
 <strong>3. My keyboard is faulty</strong>
 
 Make your friends believe that the keyboard that you bought from eBay is faulty by posting the following message with up-side down effect.
 
-<a href="http://kunruchcreations.com/wp-content/uploads/2013/04/image2.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border: 0px" title="image" alt="image" src="http://kunruchcreations.com/wp-content/uploads/2013/04/image_thumb2.png" width="644" height="224" border="0" /></a>
+<a href="https://kunruchcreations.com/wp-content/uploads/2013/04/image2.png"><img style="float: none;padding-top: 0px;padding-left: 0px;margin-left: auto;padding-right: 0px;margin-right: auto;border: 0px" title="image" alt="image" src="https://kunruchcreations.com/wp-content/uploads/2013/04/image_thumb2.png" width="644" height="224" border="0" /></a>
 
 These are just some ideas to get you started, surely you will be able to come up with better prank ideas.
 
-You can read our <a href="http://kunruchcreations.com/play-cool-april-fool-pranks-friends-windows-phone/" target="_blank">last years post</a> if you want more prank ideas which can be played using MyTextTwister on Windows Phone &amp; Windows 8.
+You can read our <a href="https://kunruchcreations.com/play-cool-april-fool-pranks-friends-windows-phone/" target="_blank">last years post</a> if you want more prank ideas which can be played using MyTextTwister on Windows Phone &amp; Windows 8.
 
-<strong>Happy fooling around!</strong> <img class="wlEmoticon wlEmoticon-smile" alt="Smile" src="http://kunruchcreations.com/wp-content/uploads/2013/04/wlEmoticon-smile.png" />
+<strong>Happy fooling around!</strong> <img class="wlEmoticon wlEmoticon-smile" alt="Smile" src="https://kunruchcreations.com/wp-content/uploads/2013/04/wlEmoticon-smile.png" />
