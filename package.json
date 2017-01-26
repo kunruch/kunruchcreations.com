@@ -22,10 +22,10 @@
   },
   "homepage": "https://kunruchcreations.com",
   "devDependencies": {
-    "mmpilot": "^0.6.2",
-    "npm-run-all": "^3.1.1"
+    "mmpilot": "^0.6.3",
+    "npm-run-all": "^4.0.1"
   },
   "dependencies": {
-    "mmcss": "^0.3.2"
+    "mmcss": "^0.3.3"
   }
 }
