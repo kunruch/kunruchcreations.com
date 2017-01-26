@@ -33,8 +33,8 @@ When referring to us you can either use <strong>KunRuch Creations</strong> or <s
 ### Logo
 Use the following PNG or SVG logo when denoting KunRuch Creations. Kindly don't change the colors, a grayscale version should be ok.
 
-<p class="text-center">
-  <img src="/img/kunruch.png">
+<div class="text-center section">
+  <img src="/img/kunruch.png" alt="Kunruch Creations">
   <div class="grid text-small">
     <div class="one-half">
       <a class="button button-ghost" style="width:100%;" href="/img/kunruch.png" target="_blank" download><strong>Download PNG</strong></a>
@@ -43,7 +43,7 @@ Use the following PNG or SVG logo when denoting KunRuch Creations. Kindly don't 
       <a class="button button-ghost" style="width:100%;" href="/img/kunruch.svg" target="_blank" download><strong>Download SVG</strong></a>
     </div>
   </div>
-</p>
+</div>
 
 ### Colors
 

@@ -20,7 +20,7 @@ mixin favicons(favicon)
   meta(name='msapplication-TileImage', content=site.url + '/img/' + favicon + '-270x270.png')
 
 mixin menu(list, classes)
-  nav(role="navigation")
+  nav
     ul(class=classes)
       each item in list
         +menuitem(item)

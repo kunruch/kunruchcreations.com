@@ -15,7 +15,7 @@ block content
             if item.image
               .media.media-left
                 a.thumbnail(href=item.url, target=target)
-                  img(src=item.image)
+                  img(src=item.image, alt=item.title)
                 .media-body
                   h2.h3.entry-title
                     a(href=item.url, target=target)= item.title
