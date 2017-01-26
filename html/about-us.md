@@ -15,13 +15,13 @@ Find below key people invloved with KunRuch Creations
 
 <p><strong>Monika</strong> is a graphic designer and blogger. After working for multiple years at IBM as Consultant, she is now following her passion in creative design and writing. </p>
 
-<p><a href="http://monikaratan.in/" target="_blank">More about Monika</a> | Follow her <a href="https://twitter.com/monikaratan">@monikaratan</a></p>
+<p><a href="https://monikaratan.in/" target="_blank">More about Monika</a> | Follow her <a href="https://twitter.com/monikaratan">@monikaratan</a></p>
 
 <p><img class="aligncenter size-full wp-image-1453" src="/wp-content/uploads/2013/04/Kanishk-Kunal.jpg" alt="Kanishk Kunal" width="748" height="463" /></p>
 
 <p><strong>Kanishk</strong> is a passionate developer who worked at Microsoft as Software Development Engineer during 2007-13. He now leads the core development and planning at KunRuch Creations</p>
 
-<p><a href="http://kanishkkunal.in/about-me/">More about Kanishk</a> | Follow him <a href="http://twitter.com/kanishkkunal">@kanishkkunal</a></p>
+<p><a href="https://kanishkkunal.in/">More about Kanishk</a> | Follow him <a href="https://twitter.com/kanishkkunal">@kanishkkunal</a></p>
 
 ## Branding
 
