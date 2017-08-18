@@ -74,6 +74,11 @@ button.disabled {
   }
 }
 
+#qrcode {
+  width: 200px;
+  margin: 0 auto;
+}
+
 @include mobile {
   .portfolio-list {
     .thumbnail {

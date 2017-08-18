@@ -22,10 +22,10 @@ block content
               a.button.button-primary(target="_blank", href=platform.download)
                 svg.icon(class="icon-" + platform.icon) <use xlink:href="#icon-#{platform.icon}"></use>
                 span #{platform.name}
-        if app.qrcode
+        div
           p Scan the following QR code to get #{ app.title } on your device
           p
-            img(src=app.qrcode, width="200", height="200", alt="QR Code for " + app.title)
+            div#qrcode(data-url=page.url)
       .section
         .featurelist
           h2.h3.text-center #{app.title} Features
@@ -57,3 +57,7 @@ block content
               p
                 a(href=medialink.url, target="_blank". rel="nofollow")= medialink.title
                 cite - #{ medialink.name }
+
+block scripts
+  script(src="/scripts/qrcode.min.js")
+  script(src="/scripts/apps_page.js")
