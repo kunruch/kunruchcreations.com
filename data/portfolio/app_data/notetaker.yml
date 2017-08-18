@@ -3,7 +3,6 @@ url: /apps/notetaker
 image: /apps/notetaker/images/notetaker.png
 description: NoteTaker is the fastest and best looking note taking application for your Android Phone. It is also the easiest to use. Your edits get saved automatically. No Ads.
 screenshot: screenshots/notetaker.png
-qrcode: images/qrcode.png
 
 platforms:
   - name: Android

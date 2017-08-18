@@ -1,0 +1,18 @@
+title: Amazing Facts (11000+)
+url: /apps/amazingfacts
+image: /apps/amazingfacts/images/amazing-facts.png
+description: With more than 11,000 interesting and unusual facts collected from all over the globe, presented in a simple and beautiful user interface, this app is sure to entertain you and amaze you whenever you need it.
+screenshot: screenshots/amazing-facts.png
+
+platforms:
+  - name: Android
+    icon: android
+    download: https://play.google.com/store/apps/details?id=com.deepfrozenapps.amazingfacts
+    linktitle: Google Play Store
+
+features:
+    - 11,000+ interesting and unusual facts 
+    - Navigate next or previous fact
+    - Jump to a random fact
+    - Easily share to social netowrks and messaging apps
+    - FREE download
