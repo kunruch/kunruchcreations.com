@@ -10,6 +10,8 @@ block content
     .container-readable
       ul.bare.portfolio-list
         for item in data.portfolio[page.portfolio]
+          if page.portfolio == 'apps'
+            - var item = data.portfolio.app_data[item]
           - var target = item.url.startsWith('http') ? '_blank' : '_self'
           li            
             if item.image
