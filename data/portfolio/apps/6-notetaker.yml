@@ -1,0 +1,36 @@
+title: NoteTaker - Notes and Todo
+url: /apps/notetaker
+image: /apps/notetaker/images/notetaker.png
+description: NoteTaker is the fastest and best looking note taking application for your Android Phone. It is also the easiest to use. Your edits get saved automatically. No Ads.
+screenshot: screenshots/notetaker.png
+qrcode: images/qrcode.png
+
+platforms:
+  - name: Android
+    icon: android
+    download: https://play.google.com/store/apps/details?id=com.deepfrozenapps.notetaker
+    linktitle: Google Play Store
+
+features:
+    - Easy to use
+    - Warm and friendly User Interface
+    - Automatic Saves
+    - Make quick notes, memo, shopping list and to do lists
+    - Widget for quick access
+    - FREE download
+    - Zero Ads
+
+reviews1:
+    - text: It is great It starts off with a sample grocery list and you can finish the rest. I wrote a song and a poem in here. This can help you keep track of alot of stuff. It's really a great app
+      user: Drama Doll
+
+    - text: Decent I like it, simply. Plus no ads that I've seen thus far, thanks!
+      user: Igor Varfolomeev
+
+reviews2:
+    - text: Simple and efficient So many apps try to fix somthing that's not broken. This app works great and does just what I need it to do. There is also an easy-to-use widget with it
+      user: James Doiron
+
+    - text: It is perfect I can just put what I need to remember on a note and I will not loose it it is just perfect .......well for me😎😁👍👍👍
+      user: Eryn Delieu
+
