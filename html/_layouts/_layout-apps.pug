@@ -22,7 +22,7 @@ block content
               a.button.button-primary(target="_blank", href=platform.download)
                 svg.icon(class="icon-" + platform.icon) <use xlink:href="#icon-#{platform.icon}"></use>
                 span #{platform.name}
-        div
+        div.hidden-mobile
           p Scan the following QR code to get #{ app.title } on your device
           p
             div#qrcode(data-url=page.url)
