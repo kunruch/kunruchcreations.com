@@ -1,0 +1,18 @@
+## redirected URLs
+/feed                     /feed.xml
+/about-us/privacy-policy  /privacy-policy
+/about-us/contact         /contact
+## apps.kunruch redirects
+/smsart                   /apps/smsart
+/sms-art                  /apps/smsart
+/emojicons                /apps/emojicons
+/mytilemaker              /apps/mytilemaker
+/mytexttwister            /apps/mytexttwister
+/spooky_planet            /apps/spooky_planet
+## moved posts
+/advertisement-provider-choices-windows-phone-app-developers  https://superdevresources.com/advertisement-provider-choices-for-windows-phone-app-developers/
+/showing-formatted-text-textblock-windows-phone-apps          https://superdevresources.com/showing-formatted-text-in-a-textblock-in-windows-phone-apps/
+/working-admob-crash-windows-phone-apps                       https://superdevresources.com/working-admob-crash-windows-phone-apps/
+/pubcenter-expands-supported-countries                        https://superdevresources.com/pubcenter-expands-supported-countries/
+/microsoft-pubcenter-expanding-7-countries-including-india    https://superdevresources.com/microsoft-pubcenter-expanding-7-countries-including-india/
+/build-windows-phone-apps-win-assured-windows-phone           https://superdevresources.com/build-windows-phone-apps-win-assured-windows-phone/

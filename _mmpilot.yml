@@ -1,39 +1,5 @@
 ## data for building web project
 
-## redirected URLs
-redirected:
-  - from: /feed
-    to: /feed.xml
-  - from: /about-us/privacy-policy
-    to: /privacy-policy
-  - from: /about-us/contact
-    to: /contact
-  ## apps.kunruch redirects
-  - from: /smsart
-    to: /apps/smsart
-  - from: /sms-art
-    to: /apps/smsart
-  - from: /emojicons
-    to: /apps/emojicons
-  - from: /mytilemaker
-    to: /apps/mytilemaker
-  - from: /mytexttwister
-    to: /apps/mytexttwister
-  - from: /spooky_planet
-    to: /apps/spooky_planet
-  ## moved posts
-  - from: /advertisement-provider-choices-windows-phone-app-developers
-    to: https://superdevresources.com/advertisement-provider-choices-for-windows-phone-app-developers/
-  - from: /showing-formatted-text-textblock-windows-phone-apps
-    to: https://superdevresources.com/showing-formatted-text-in-a-textblock-in-windows-phone-apps/
-  - from: /working-admob-crash-windows-phone-apps
-    to: https://superdevresources.com/working-admob-crash-windows-phone-apps/
-  - from: /pubcenter-expands-supported-countries
-    to: https://superdevresources.com/pubcenter-expands-supported-countries/
-  - from: /microsoft-pubcenter-expanding-7-countries-including-india
-    to: https://superdevresources.com/microsoft-pubcenter-expanding-7-countries-including-india/
-  - from: /build-windows-phone-apps-win-assured-windows-phone
-    to: https://superdevresources.com/build-windows-phone-apps-win-assured-windows-phone/
 
 ## additional data for site available as site.{key} in pug templates
 site:
