@@ -10,15 +10,11 @@
   url: https://superdevresources.com/
   description: Guides, Tools and Resources for Independent Developers and Startups
   image: /portals/superdevresources.png
-- title: 85apps
-  url: https://85apps.com/
-  description: Android App Reviews and Tips
-  image: /portals/85apps.png
+- title: Tech Buzz Online
+  url: https://www.techbuzzonline.com/
+  description: Technology, Apps & Lifestyle Portal
+  image: /portals/tbo.png
 - title: MM Themes
   url: https://mmthemes.com/
   description: Minimal Modern WordPress Themes
   image: /portals/mmthemes.png
-- title: WhatVersion
-  url: https://whatversion.info/
-  description: Information Portal, Auto detection of Browsers & Operating systems
-  image: /portals/whatversion.png
